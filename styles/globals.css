@@ -1,4 +1,14 @@
-:root {
+/* here in this file we do 'pure' selectors ie element selectors and media queries */
+
+html {
+  background-color: hotpink;
+}
+
+h1 {
+  color: chartreuse;
+}
+
+/* :root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
@@ -104,4 +114,4 @@ a {
   html {
     color-scheme: dark;
   }
-}
+} */
